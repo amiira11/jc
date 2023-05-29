@@ -6,10 +6,12 @@
 .container{
     width: (90%, 1120px);
     height: 100vh;
-    background: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=2000");
-    background: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    background: url("https://webneel.com/daily/sites/default/files/images/daily/08-2018/1-nature-photography-spring-season-mumtazshamsee.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+ 
+     
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,12 +32,12 @@
     position: absolute;
     text-align: center;
     bottom: 15%;
-    color: #fff;
+    color: #000;
     font-size: 30px;
     font-weight: bold;
 }
 .quotes h2 {
-    font-size: 45px;
+    font-size: 50px;
     margin-top: 20px;
     font-weight: bold;
 
